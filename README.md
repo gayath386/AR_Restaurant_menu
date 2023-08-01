@@ -1,2 +1,2 @@
 # AR_Restaurant_menu
-A unity program for viewing the menu items in 3D in the real world. It is a type of desktop based AR.
+This is a unity program for viewing menu items of a restaurant in 3D in the real world. It is a type of desktop-based AR. Here, I have added just 3D models of three food items. This could be used as a basis for developing a full-fledged restaurant menu. This will help in giving the customers an idea of how the food will look. Having a 3D view will help restaurants in "compelling" the customers to buy food. This app was developed using Unity 3D and Holo SDK, which is a kit for developing desktop based AR.
